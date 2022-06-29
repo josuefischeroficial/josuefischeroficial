@@ -1,4 +1,4 @@
-*- 👋🏻 Hi, I'm Josue Fischer. Pleased to meet you.
+*- 👋🏻 Hi, I'm Josue Fischer. Pleased to meet you.*
 
 *- 👀 I’m UI and UX Designer, software developer and team leader.*
 
