@@ -25,7 +25,7 @@
 > I develop static pages (landing web pages), ideal for your portfolio, business or enterprise. I like to code things from scratch and enjoy bringing ideas to life in the browser.
 
 ## Languages I speak:
-> HTML, CSS, Python, Java.
+> HTML, CSS, JavaScript, Python.
 
 ## Development tools:
-> Git, GitHub, Bulma, Visual Studio Code, Codepen, Terminal.
+> Git, GitHub, Bulma, Visual Studio Code, Codepen, Terminal, SQL WorkBench.
