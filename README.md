@@ -16,7 +16,7 @@
 > Design interfaces and user experiences, flyers, posters, invitations and product designs. I value simple content structure, clean design patterns, and well-thought-out interactions.
 
 ## Things I enjoy designing:
-> UX, UI, web, mobile, apps, logos.
+> UX, UI, websites, mobile apps, logos.
 
 ## Design and editing tools:
 > Figma, Canva, Photoshop, Adobe XD, Filmora, Adobe Premiere Pro.
