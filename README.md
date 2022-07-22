@@ -2,7 +2,7 @@
 
 *- 👀 I’m UI and UX Designer, software developer and team leader.*
 
-*- 🌱 I’m currently learning Java and the Bulma CSS framework.*
+*- 🌱 I’m currently learning Java.*
 
 *- 📫 Contact me troght e-mail: josuefischercraft@gmail.com*
 
