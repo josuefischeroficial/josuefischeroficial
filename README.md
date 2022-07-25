@@ -1,31 +1,51 @@
-*- 👋🏻 Hi, I'm Josue Fischer. Pleased to meet you.*
+<div align="center">
 
-*- 👀 I’m UI and UX Designer, software developer and team leader.*
+![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/josuefischeroficial?style=social)
+![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/josuefischeroficial?label=Fork&style=social)
+![GitHub followers](https://img.shields.io/github/followers/josuefischeroficial?label=Follow&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/josuefischeroficial/josuefischeroficial?style=social)
 
-*- 🌱 I’m currently learning Java.*
+<br />
 
-*- 📫 Contact me troght e-mail: josuefischercraft@gmail.com*
+# Hey! I´m Josue Fischer.
+
+![Portfolio Desktop Demo](./images/JosueFischer.png "Josue Fischer")
+
+</div>
+
+<br />
 
 # I design and program beautiful and simple things, and I love what I do.
+I am a software developer with a passion for building beautiful and simple things, i love what I do and I am always looking for new ways to improve my skills.
 
-## Hi, I'm Josue Fischer. Pleased to meet you.
+<br />
 
-> Since beginning my journey as a software designer and developer, I've done remote work for startups, mentored startups, and collaborated with talented people to create digital products for consumer and commercial use. I am naturally curious and perpetually work to improve my skills, one problem at a time.
+# My skills
+## Designer:
+I design interfaces and user experiences, flyers, posters, invitations and product designs. I value simple content structure, clean design patterns, and well-thought-out interactions. Things I enjoy designing: UX, UI, websites, mobile apps, logos.
 
-## Designer
-> Design interfaces and user experiences, flyers, posters, invitations and product designs. I value simple content structure, clean design patterns, and well-thought-out interactions.
+## Front-end Developer
+I develop web pages, ideal for your portfolio, business or enterprise. I like to code things from scratch and enjoy bringing ideas to life in the browser. Languages I speak: HTML, CSS, JavaScript, Python, Java.
 
-## Things I enjoy designing:
-> UX, UI, websites, mobile apps, logos.
+## ¿Want to contact me?
 
-## Design and editing tools:
-> Figma, Canva, Photoshop, Adobe XD, Filmora, Adobe Premiere Pro.
+_My e-mail:_
+josuefischercraft@gmail.com
 
-## Front End Developer
-> I develop static pages (landing web pages), ideal for your portfolio, business or enterprise. I like to code things from scratch and enjoy bringing ideas to life in the browser.
+<br />
 
-## Languages I speak:
-> HTML, CSS, JavaScript, Python.
+<div align="center">
 
-## Development tools:
-> Git, GitHub, Bulma, Visual Studio Code, Codepen, Terminal, SQL WorkBench.
+## Apps and tools i use:
+
+<code><img height="30" src="images/Html.png"></code>
+<code><img height="30" src="images/Css.png"></code>
+<code><img height="30" src="images/Js.png"></code>
+<code><img height="30" src="images/VisualStudio.png"></code>
+<code><img height="30" src="images/Git.png"></code>
+<code><img height="30" src="images/Python.png"></code>
+<code><img height="30" src="images/Java.png"></code>
+<code><img height="30" src="images/Figma.png"></code>
+<code><img height="30" src="images/Canva.png"></code>
+<code><img height="30" src="images/Xd.png"></code>
+<code><img height="30" src="images/Filmora.png"></code>
